@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.img {
+    border: 5px solid white;
+    width: 85%; 
+}
+
+.div1 {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    font-family: "Libre Baskerville", serif;
+}
